@@ -1,0 +1,15 @@
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar1.Zad3\obj\Debug\net6.0\Seminar1.Zad3.csproj.AssemblyReference.cache
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar1.Zad3\obj\Debug\net6.0\Seminar1.Zad3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar1.Zad3\obj\Debug\net6.0\Seminar1.Zad3.AssemblyInfoInputs.cache
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar1.Zad3\obj\Debug\net6.0\Seminar1.Zad3.AssemblyInfo.cs
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar1.Zad3\obj\Debug\net6.0\Seminar1.Zad3.csproj.CoreCompileInputs.cache
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar1.Zad3\bin\Debug\net6.0\Seminar1.Zad3.exe
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar1.Zad3\bin\Debug\net6.0\Seminar1.Zad3.deps.json
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar1.Zad3\bin\Debug\net6.0\Seminar1.Zad3.runtimeconfig.json
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar1.Zad3\bin\Debug\net6.0\Seminar1.Zad3.dll
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar1.Zad3\bin\Debug\net6.0\Seminar1.Zad3.pdb
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar1.Zad3\obj\Debug\net6.0\Seminar1.Zad3.dll
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar1.Zad3\obj\Debug\net6.0\refint\Seminar1.Zad3.dll
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar1.Zad3\obj\Debug\net6.0\Seminar1.Zad3.pdb
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar1.Zad3\obj\Debug\net6.0\Seminar1.Zad3.genruntimeconfig.cache
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar1.Zad3\obj\Debug\net6.0\ref\Seminar1.Zad3.dll
