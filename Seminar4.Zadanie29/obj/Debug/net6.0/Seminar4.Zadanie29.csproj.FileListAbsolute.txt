@@ -1,0 +1,15 @@
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar4.Zadanie29\bin\Debug\net6.0\Seminar4.Zadanie29.exe
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar4.Zadanie29\bin\Debug\net6.0\Seminar4.Zadanie29.deps.json
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar4.Zadanie29\bin\Debug\net6.0\Seminar4.Zadanie29.runtimeconfig.json
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar4.Zadanie29\bin\Debug\net6.0\Seminar4.Zadanie29.dll
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar4.Zadanie29\bin\Debug\net6.0\Seminar4.Zadanie29.pdb
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar4.Zadanie29\obj\Debug\net6.0\Seminar4.Zadanie29.csproj.AssemblyReference.cache
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar4.Zadanie29\obj\Debug\net6.0\Seminar4.Zadanie29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar4.Zadanie29\obj\Debug\net6.0\Seminar4.Zadanie29.AssemblyInfoInputs.cache
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar4.Zadanie29\obj\Debug\net6.0\Seminar4.Zadanie29.AssemblyInfo.cs
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar4.Zadanie29\obj\Debug\net6.0\Seminar4.Zadanie29.csproj.CoreCompileInputs.cache
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar4.Zadanie29\obj\Debug\net6.0\Seminar4.Zadanie29.dll
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar4.Zadanie29\obj\Debug\net6.0\refint\Seminar4.Zadanie29.dll
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar4.Zadanie29\obj\Debug\net6.0\Seminar4.Zadanie29.pdb
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar4.Zadanie29\obj\Debug\net6.0\Seminar4.Zadanie29.genruntimeconfig.cache
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar4.Zadanie29\obj\Debug\net6.0\ref\Seminar4.Zadanie29.dll
