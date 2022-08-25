@@ -24,9 +24,9 @@ int DiffBetweenMinAndMaxInArray(int[] array)
     int maxNum = array[0];
     for (int i=0; i < array.Length; i++)
     {
-        if (maxNum < array[i]) 
+        if (array[i] > maxNum) 
         maxNum = array[i];
-        if (minNum > array[i])
+        if (array[i] < minNum)
         minNum = array[i];
     }
 return maxNum - minNum;
