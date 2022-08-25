@@ -1,0 +1,15 @@
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar5.Zadanie38\obj\Debug\net6.0\Seminar5.Zadanie38.csproj.AssemblyReference.cache
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar5.Zadanie38\obj\Debug\net6.0\Seminar5.Zadanie38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar5.Zadanie38\obj\Debug\net6.0\Seminar5.Zadanie38.AssemblyInfoInputs.cache
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar5.Zadanie38\obj\Debug\net6.0\Seminar5.Zadanie38.AssemblyInfo.cs
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar5.Zadanie38\obj\Debug\net6.0\Seminar5.Zadanie38.csproj.CoreCompileInputs.cache
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar5.Zadanie38\bin\Debug\net6.0\Seminar5.Zadanie38.exe
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar5.Zadanie38\bin\Debug\net6.0\Seminar5.Zadanie38.deps.json
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar5.Zadanie38\bin\Debug\net6.0\Seminar5.Zadanie38.runtimeconfig.json
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar5.Zadanie38\bin\Debug\net6.0\Seminar5.Zadanie38.dll
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar5.Zadanie38\bin\Debug\net6.0\Seminar5.Zadanie38.pdb
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar5.Zadanie38\obj\Debug\net6.0\Seminar5.Zadanie38.dll
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar5.Zadanie38\obj\Debug\net6.0\refint\Seminar5.Zadanie38.dll
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar5.Zadanie38\obj\Debug\net6.0\Seminar5.Zadanie38.pdb
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar5.Zadanie38\obj\Debug\net6.0\Seminar5.Zadanie38.genruntimeconfig.cache
+C:\Users\ZA19\OneDrive\Рабочий стол\C#\Seminar5.Zadanie38\obj\Debug\net6.0\ref\Seminar5.Zadanie38.dll
