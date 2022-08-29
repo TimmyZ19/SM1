@@ -1,37 +1,42 @@
-﻿/*
-Задача 38: Задайте массив вещественных чисел. Найдите разницу между максимальным и минимальным элементов массива.
-[3 7 22 2 78] -> 76
-*/
+﻿double[,] coeff = new double[2, 2];
+double[] crossPoint = new double[2];
 
-Console.WriteLine("Введите размер массива: ");
-int size = Convert.ToInt32(Console.ReadLine());
-int[] array = new int[size];
-
-void NumberArray(int[] array)
-{
-    for (int i = 0; i < array.Length; i++)
+void InputCoefficients(){
+  for (int i = 0; i < coeff.GetLength(0); i++)
+  {
+    Console.Write($"Введите коэффициенты {i+1}-го уравнения (y = k * x + b):\n");
+    for (int j = 0; j < coeff.GetLength(1); j++)
     {
-        Random myRandom = new Random();
-        array[i] = myRandom.Next(100);
-        Console.Write($"{array[i]} ");
+      if(j==0) Console.Write($"Введите коэффициент k: ");
+      else Console.Write($"Введите коэффициент b: ");
+      coeff[i,j] = Convert.ToInt32(Console.ReadLine());
     }
-
+  }
 }
 
-int DiffBetweenMinAndMaxInArray(int[] array)
+double[] Decision(double[,] coeff)
 {
-    int minNum = array[0];
-    int maxNum = array[0];
-    for (int i=0; i < array.Length; i++)
-    {
-        if (array[i] > maxNum) 
-        maxNum = array[i];
-        if (array[i] < minNum)
-        minNum = array[i];
-    }
-return maxNum - minNum;
-
+  crossPoint[0] = (coeff[1,1] - coeff[0,1]) / (coeff[0,0] - coeff[1,0]);
+  crossPoint[1] = crossPoint[0] * coeff[0,0] + coeff[0,1];
+  return crossPoint;
 }
-NumberArray(array);
-Console.WriteLine();
-Console.Write($"Разница между максимальным и минимальным элементами массива: {DiffBetweenMinAndMaxInArray(array)}");
+
+void OutputResponse(double[,] coeff)
+{
+  if (coeff[0,0] == coeff[1,0] && coeff[0,1] == coeff[1,1]) 
+  {
+    Console.Write($"\nПрямые совпадают");
+  }
+  else if (coeff[0,0] == coeff[1,0] && coeff[0,1] != coeff[1,1]) 
+  {
+    Console.Write($"\nПрямые параллельны");
+  }
+  else 
+  {
+    Decision(coeff);
+    Console.Write($"\nТочка пересечения прямых: ({crossPoint[0]}, {crossPoint[1]})");
+  }
+}
+
+InputCoefficients();
+OutputResponse(coeff);
