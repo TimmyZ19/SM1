@@ -14,22 +14,32 @@ int m = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите количество столбцов массива");
 int n = Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine(GetArray(m, n));
-//GetArray(array);
+double[,] array = new double[m, n];
 
-double[,] GetArray(int m, int n)
+GetArrayDouble(array);
+PrintArray(array);
+Console.WriteLine();
+
+void GetArrayDouble(double[,] array)
 {
-    double[,] result = new double[m, n];
-    Random myRandom = new Random();
     for (int i = 0; i < m; i++)
     {
         for (int j = 0; j < n; j++)
         {
+            Random myRandom = new Random();
+            array[i, j] = myRandom.NextDouble() * 10;
+        }
+    }
+}
 
-            result[i, j] = myRandom.NextDouble() * 100;
-            Console.Write("{0,6:F2}", result[i, j]);
+void PrintArray(double[,] array)
+{
+    for (int i = 0; i < array.GetLength(0); i++)
+    {
+        for (int j = 0; j < array.GetLength(1); j++)
+        {
+            Console.Write("{0,6:F2}", array[i, j]);
         }
         Console.WriteLine();
     }
-    return result;
 }
