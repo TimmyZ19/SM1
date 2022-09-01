@@ -62,3 +62,4 @@ void PositionNumberInArray()
         Console.WriteLine($"В массиве с координатами ({x},{y}) расположено значение: {z}");
     }
 }
+
