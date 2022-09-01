@@ -16,6 +16,7 @@ int n = Convert.ToInt32(Console.ReadLine());
 
 double[,] array = new double[m, n];
 
+Console.WriteLine("Массив вещественных чисел: ");
 GetArrayDouble(array);
 PrintArray(array);
 Console.WriteLine();
